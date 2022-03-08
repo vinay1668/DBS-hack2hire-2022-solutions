@@ -68,13 +68,27 @@
 <br />
 
 
+## 3.View-Catlog
 
+#### The below solution is incomplete. Only some test cases will pass 😅. I tried all day but no luck 😭 haha .
+#### The files that should be manipulated are: 1) App.js 2) Thumbs.js 3) Viewer.js
+#### look at this https://github.com/vinay1668/catalog-viewer/tree/master/src . change above mentioned files according to this.
 
+<br />
 
+## 4. Kanban-Board challenge
 
+#### https://github.com/tarun4all/react-kanban-board-challenge/tree/master/src
+#### some modifications are needed. I didn't had to time to solve this.The exam is only for 2 hours. 
+### App.js
+<br />
 
-
-
-
-
-
+![e1](https://user-images.githubusercontent.com/68241977/157233779-7ea4e12f-57ed-4ae9-8b8c-9d7cc062b43d.jpeg)
+<br />
+### Kanban-Board Index.js
+![e2](https://user-images.githubusercontent.com/68241977/157233911-ad4abd6e-2fc1-4829-ab6b-b7dbef283a76.jpeg)
+<br />
+![e3](https://user-images.githubusercontent.com/68241977/157233943-21eaf74e-6f59-4964-8e07-7e5fda4981b4.jpeg)
+<br />
+![e4](https://user-images.githubusercontent.com/68241977/157233951-4bcc23ea-9ba4-4536-9789-b0509986a452.jpeg)
+<br />
