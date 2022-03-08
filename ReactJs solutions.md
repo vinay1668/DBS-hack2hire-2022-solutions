@@ -1,6 +1,6 @@
 # DBS-hack2hire-2022-solutions
 
-## 1.Country Sorting
+## 1.Country Sorting Problem
 
 > In this problem, we will be given a bunch of files,if when executed (by saving , press ctrl+s and then clicking on the run button that appears on the top bar) , will automatically open a new tab. Here, the functionality is incomplete. That is, there is a input box for entering the country name but it will not show the country list based on our input. This is the problem we need to solve. Making the application in such a way that while typing letters in the inputbox it should provide the countries list based on letters we entered. (Sorting).  This seems hard but hang on ,it's relatively easy. 
 
@@ -37,7 +37,7 @@
 <br />
 
 
-## 2.Date-API
+## 2.Date-API Problem
 
 > The problem is to create a front-end while is incomplete initially. We need to use an API to get date from external resource and dispay current date in our application.
 
@@ -55,5 +55,26 @@
 ![DD1](https://user-images.githubusercontent.com/68241977/157174822-8e3a7018-a334-4021-971e-3de8005fc331.jpeg)
 <br />
 ![DD2](https://user-images.githubusercontent.com/68241977/157174829-bd788c87-c814-476e-9f9c-ad3f78858061.jpeg)
+<br />
+
+### 3) DateButton.js
+![db](https://user-images.githubusercontent.com/68241977/157175150-1f9028ba-bc98-4f12-acfe-0c37df1e34fe.jpeg)
+<br />
+
+
+### 4) dateAPI.js
+![dateapi](https://user-images.githubusercontent.com/68241977/157175154-d154e238-5d6f-4c93-acd2-21ba895c7985.jpeg)
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
 
 
