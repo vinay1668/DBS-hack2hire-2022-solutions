@@ -96,3 +96,36 @@
 ## 5. React- learderBoard Challenge 
 
 #### https://github.com/vinay1668/react-leaderboard Not fully completed.Some testcases won't pass.
+
+<br />
+
+
+
+## 6. React-movie List Challange 
+ 
+ #### only need to change index.js file. Alter this file according to this
+ #### https://github.com/VampishWolf/movie-list-hackerrank/blob/master/src/components/movie-list/index.js
+ 
+
+
+ <br />
+
+
+![movie1](https://user-images.githubusercontent.com/68241977/157461475-cf0812f1-af71-45e8-ac4c-49c3dd1bacda.jpeg)
+
+ 
+<br />
+
+![movie2](https://user-images.githubusercontent.com/68241977/157461362-b21ffb99-6d18-4571-88c4-1425c4e5c458.jpeg)
+
+<br />
+
+![movie3](https://user-images.githubusercontent.com/68241977/157461373-d2eb5ce5-b2cb-472a-be01-c5481ac3d140.jpeg)
+
+
+<br />
+
+
+
+
+
