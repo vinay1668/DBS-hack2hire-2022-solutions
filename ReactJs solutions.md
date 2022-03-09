@@ -79,19 +79,43 @@
 ## 4. Kanban-Board challenge
 
 #### https://github.com/tarun4all/react-kanban-board-challenge/tree/master/src
-#### some modifications are needed. I didn't had to time to solve this.The exam is only for 2 hours. 
+#### (Follow above repository)
 ### App.js
 <br />
 
 ![e1](https://user-images.githubusercontent.com/68241977/157233779-7ea4e12f-57ed-4ae9-8b8c-9d7cc062b43d.jpeg)
 <br />
 ### Kanban-Board Index.js
-![e2](https://user-images.githubusercontent.com/68241977/157233911-ad4abd6e-2fc1-4829-ab6b-b7dbef283a76.jpeg)
+
 <br />
-![e3](https://user-images.githubusercontent.com/68241977/157233943-21eaf74e-6f59-4964-8e07-7e5fda4981b4.jpeg)
+
+![kanban1](https://user-images.githubusercontent.com/68241977/157462622-35ef1942-7984-4d4f-9e86-b8003eeea6a3.jpeg)
+
 <br />
-![e4](https://user-images.githubusercontent.com/68241977/157233951-4bcc23ea-9ba4-4536-9789-b0509986a452.jpeg)
+
+![kanban2](https://user-images.githubusercontent.com/68241977/157462651-aeca638a-ab2f-4e97-a971-bbb7971872f6.jpeg)
+
 <br />
+
+![kanban3](https://user-images.githubusercontent.com/68241977/157462690-0c776a61-76b6-46df-bdc5-00b857f79abb.jpeg)
+
+
+<br />
+
+
+![kanban4](https://user-images.githubusercontent.com/68241977/157462705-71138b9a-e88c-41b0-b118-8fa7ada15495.jpeg)
+
+
+
+<br />
+
+
+![kanban5](https://user-images.githubusercontent.com/68241977/157462737-fc7dcf6f-874c-4a0d-aac0-260cbbcc7023.jpeg)
+
+
+<br />
+
+
 
 ## 5. React- learderBoard Challenge 
 
