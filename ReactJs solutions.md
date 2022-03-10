@@ -1,5 +1,16 @@
 # DBS-hack2hire-2022-solutions
 
+<br />
+
+## [1.Country Sorting Problem](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/edit/main/ReactJs%20solutions.md#dbs-hack2hire-2022-solutions)
+## [2.Date-API Problem](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/edit/main/ReactJs%20solutions.md#2date-api-problem)
+## [3.View-Catlog](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/edit/main/ReactJs%20solutions.md#3view-catlog)
+## [4. Kanban-Board challenge](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/edit/main/ReactJs%20solutions.md#4-kanban-board-challenge)
+## [5. React- learderBoard Challenge](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/edit/main/ReactJs%20solutions.md#5-react--learderboard-challenge)
+## [6. React-movie List Challange](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/edit/main/ReactJs%20solutions.md#6-react-movie-list-challange)
+
+<br />
+
 ## 1.Country Sorting Problem
 
 > In this problem, we will be given a bunch of files,if when executed (by saving , press ctrl+s and then clicking on the run button that appears on the top bar) , will automatically open a new tab. Here, the functionality is incomplete. That is, there is a input box for entering the country name but it will not show the country list based on our input. This is the problem we need to solve. Making the application in such a way that while typing letters in the inputbox it should provide the countries list based on letters we entered. (Sorting).  This seems hard but hang on ,it's relatively easy. 
@@ -115,15 +126,72 @@
 
 <br />
 
+![disable](https://user-images.githubusercontent.com/68241977/157735826-726b6ccf-e47d-4f1b-8588-5d7d576c1b6a.jpeg)
+
+
+<br />
+
 
 
 ## 5. React- learderBoard Challenge 
 
 #### https://github.com/vinay1668/react-leaderboard Not fully completed.Some testcases won't pass.
 
+#### App.js 
 <br />
 
+![la1](https://user-images.githubusercontent.com/68241977/157736550-bee0e906-eed3-48a8-8f8f-b8d7c581a845.jpeg)
 
+<br />
+
+![la2](https://user-images.githubusercontent.com/68241977/157736568-dfee79a1-ebd2-433e-b8d2-47a463667f1e.jpeg)
+
+<br />
+![la3](https://user-images.githubusercontent.com/68241977/157736583-32b7f48a-cb9e-4565-97b8-3ea2dcba0648.jpeg)
+
+
+<br />
+
+![la4](https://user-images.githubusercontent.com/68241977/157736599-71b30b90-ef42-4546-be32-cac7f1e114c1.jpeg)
+
+
+<br />
+
+#### Table.js
+
+
+
+<br />
+
+![lt1](https://user-images.githubusercontent.com/68241977/157737403-44d0b8b4-7142-4760-9ec8-981bc7cf95fa.jpeg)
+
+
+<br />
+
+![lt2](https://user-images.githubusercontent.com/68241977/157737408-85cd465b-fa77-4e02-976f-36c7a24f5175.jpeg)
+
+
+<br />
+
+![lt3](https://user-images.githubusercontent.com/68241977/157737416-a7225415-5b8a-467f-9b14-e427f66abcd2.jpeg)
+
+<br />
+
+![lt4](https://user-images.githubusercontent.com/68241977/157737433-785e35b5-d618-4c50-b7f5-f28df8a302e4.jpeg)
+
+<br />
+
+![lt5](https://user-images.githubusercontent.com/68241977/157737442-ea101db0-160f-4516-9fb8-3c7618d9a468.jpeg)
+
+<br />
+
+![lt6](https://user-images.githubusercontent.com/68241977/157737449-46ac1b01-f53f-416d-bef8-df42004bcd42.jpeg)
+
+<br />
+
+![lt7](https://user-images.githubusercontent.com/68241977/157737460-2fb2516a-cf4a-47a0-b4d3-9cb9021912c6.jpeg)
+
+<br />
 
 ## 6. React-movie List Challange 
  
