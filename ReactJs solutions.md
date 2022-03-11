@@ -2,10 +2,10 @@
 
 <br />
 
-## [1.Country Sorting Problem](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/blob/main/ReactJs%20solutions.md#1country-sorting-problem-1)
+## [1.Country Sorting Problem ](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/blob/main/ReactJs%20solutions.md#1country-sorting-problem-1)
 ## [2.Date-API Problem](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/blob/main/ReactJs%20solutions.md#2date-api-problem-1)
-## [3.View-Catlog](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/blob/main/ReactJs%20solutions.md#3view-catlog-1)
-## [4. Kanban-Board challenge](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/blob/main/ReactJs%20solutions.md#4-kanban-board-challenge-1)
+## [3.Catlog-Viewer (all test cases will pass)](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/blob/main/ReactJs%20solutions.md#3view-catlog-1)
+## [4. Kanban-Board challenge (all test cases will pass)](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/blob/main/ReactJs%20solutions.md#4-kanban-board-challenge-1)
 ## [5. React- learderBoard Challenge](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/blob/main/ReactJs%20solutions.md#5-react--learderboard-challenge-1)
 ## [6. React-movie List Challange](https://github.com/vinay1668/DBS-hack2hire-2022-solutions/blob/main/ReactJs%20solutions.md#6-react-movie-list-challange-1)
 
@@ -81,20 +81,81 @@
 
 ## 3.View-Catlog
 
-#### The below solution is incomplete. Only some test cases will pass 😅. I tried all day but no luck 😭 haha .
+
 #### The files that should be manipulated are: 1) App.js 2) Thumbs.js 3) Viewer.js
 #### look at this https://github.com/vinay1668/catalog-viewer/tree/master/src . change above mentioned files according to this.
 
+#### If writtten as shown in the pics, all test cases will pass for sure.😅
+
+#### 1)App.js
 <br />
 
-## 4. Kanban-Board challenge
+![v1](https://user-images.githubusercontent.com/68241977/157832812-011079f3-7f98-4f34-b57b-159ea35d3684.jpeg)
+
+<br />
+
+![v2](https://user-images.githubusercontent.com/68241977/157832832-494aef03-3904-4410-87fa-bb3c31a0a78b.jpeg)
+
+
+<br />
+
+![v3](https://user-images.githubusercontent.com/68241977/157832851-9643fb4e-4b2d-4ee8-aaae-f2db2d1887b7.jpeg)
+
+<br />
+
+![v4](https://user-images.githubusercontent.com/68241977/157832885-a4785147-ee1b-45af-8e40-faa66cace93a.jpeg)
+
+
+<br />
+
+
+![v5](https://user-images.githubusercontent.com/68241977/157832897-942f3470-840e-491d-9401-400ac6896935.jpeg)
+
+<br />
+
+![v6](https://user-images.githubusercontent.com/68241977/157832917-93fac595-a031-482d-88c8-277eb57f730e.jpeg)
+
+<br />
+
+![v7](https://user-images.githubusercontent.com/68241977/157832952-431ea930-e158-4ad8-8676-e0b6917dace7.jpeg)
+
+<br />
+
+![v8](https://user-images.githubusercontent.com/68241977/157832973-38b50768-12f3-45ba-a707-7183219f9493.jpeg)
+
+<br />
+
+#### 2) Viewer.js
+
+![viewer](https://user-images.githubusercontent.com/68241977/157834054-4967dd4e-edba-4eef-8e33-5956fad74d38.jpeg)
+
+
+<br />
+
+#### 2) Thumbs.js
+
+![t1](https://user-images.githubusercontent.com/68241977/157834325-e3514fa5-2fb2-41ae-8001-a35e131babd6.jpeg)
+
+<br />
+
+
+![t2](https://user-images.githubusercontent.com/68241977/157834341-4d2b6e40-5abc-4dc2-b321-ff989ed415ce.jpeg)
+
+
+<br />
+
+
+## 4. Kanban-Board challenge (all test cases will pass)
 
 #### https://github.com/tarun4all/react-kanban-board-challenge/tree/master/src
 #### (Follow above repository)
 ### App.js
 <br />
 
+
 ![e1](https://user-images.githubusercontent.com/68241977/157233779-7ea4e12f-57ed-4ae9-8b8c-9d7cc062b43d.jpeg)
+
+
 <br />
 ### Kanban-Board Index.js
 
